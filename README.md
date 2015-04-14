@@ -1,2 +1,2 @@
 # udintroproject
-intro project for udaicty Front-end dev nano degree
+Intro project for Udacity Front-end developer nano degree
